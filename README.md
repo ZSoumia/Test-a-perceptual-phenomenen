@@ -23,4 +23,4 @@ $git clone https://github.com/ZSoumia/Test-a-perceptual-phenomenen
 - scipy.
 
 ## 3.License: 
-This project is licensed under the MIT License - see the [LICENSE ](https://github.com/ZSoumia/Test-a-perceptual-phenomenen/blob/master/LICENSE) file for details
+This project is licensed under the  GNU GENERAL PUBLIC  License - see the [LICENSE ](https://github.com/ZSoumia/Test-a-perceptual-phenomenen/blob/master/LICENSE) file for details
